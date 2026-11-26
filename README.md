@@ -4,7 +4,7 @@
 An interactive Power BI dashboard built to analyze Adidas US retail sales, operating profit, units sold, and regional performance.
 
 ## Dashboard Preview
-![Adidas Dashboard](dashboard_overview.png)
+![Adidas Dashboard](<Dashboard - Adidas.png>)
 
 ## Key Insights & Metrics
 - **Tools Used:** Power BI, DAX, Microsoft Excel
